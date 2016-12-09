@@ -1,0 +1,23 @@
+Yesterday, I reached 99 percentile in algorithms on Hackerrank in less than 1 year, with really some on/off work for multiple months, in actual, the number of days to get this is 106 days, that is, about 3 months.
+
+If I have to redo my last year work, I would do a few like this:
+
+Programming language
+I would choose C++ 14 with STL/ Java over C language to save at least 1/2 time.
+Updated Aug 17: I would buy & use a white board (2X3 feet sized) with duster (less than 1200 rupees) at the begin itself, 2 blue white board markers to write, white board marker refill ink - 10 set box (about 300 rupees, general one, Not the permanent marker refill) to refill the markers as needed.
+This was crucial, because hard problems needed a lot big sized samples, on paper it is doable but is difficult, white board is perfect, rub the part of board and redraw. This was especially useful for dynamic programming problems like LCS, LIS, and their variants, these require big tables. I have solved hard problems in DP just because I had a white board, without white board I was not able to solve, and was a nightmare initially.
+This is also crucial for Game Theory, which I am doing these days, Aug 18 2016.
+Data structures before algorithms
+I would have learnt data structures, before doing algorithms
+A plan
+If there was something like below, I would read at least 10 times.
+Manohar Poreddy's answer to How do I become one of the top ten hackers in HackerRank?
+Breeze read all Tutorials first
+Learning is more than doing
+I would take a 2 months off and learn everything that is there at following link: ManoharPoreddy/HackerRank-Topics
+A full end to end plan like below one would have been highly useful:
+Good CS links by Manohar Poreddy on ManoharPoreddy
+Continuous hard work
+Finally I did a lot of on/off work that can be seen here
+Under Submissions, you can see full of Nov, Feb, Mar, Apr, and till end of May, and 1/2 of Jul, I have not worked on Algorithms
+This kind of on-off work is a mistake, we need to do continuous work to stay ahead of competition, every time I took break my rank went back few hundreds, so I could only clear that backlog when I came back to working on algorithms, ultimately remaining at the same rank for many months in the year :-), not a good sign to do hard work this way.
