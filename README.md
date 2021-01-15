@@ -1,12 +1,12 @@
 # coding-problems
 This repository contains solution to all the coding contest and non-contest problems.
 
-# Branches
-**master**
+## Branches
+- **master**
 
 Merge-only branch. Do not upload program files to this branch directly.
 
-**development**
+- **development**
 
 Make all the changes in this branch. If changes seem good, merge in the *master*.
 
