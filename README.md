@@ -4,13 +4,14 @@ This repository contains solution to all the coding contest and non-contest prob
 ## Branches
 - **master**
 
-Merge-only branch. Do not upload program files to this branch directly.
+Single branch. Work on it directly.
+~~Merge-only branch. Do not upload program files to this branch directly.
 
-- **development**
+~~- **development**~~
 
-Make all the changes in this branch. If changes seem good, merge in the *master*.
+~~Make all the changes in this branch. If changes seem good, merge in the *master*.
 
-perform all the changes with branch named *development*
+~~perform all the changes with branch named *development*
 > git checkout development
 
 
@@ -18,8 +19,8 @@ once changes done:
 > git add .
 > 
 > git commit
-> 
-> git push origin development
+> ~~git push origin development~~
+> git push origin master
 
 
 ## Commit message convention
